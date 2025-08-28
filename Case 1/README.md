@@ -19,4 +19,5 @@
 
 ### 4. Masalah data:
 - ID duplikat: [5]
-- Inkonsistensi penulisan: 'Apel' vs 'apel', 'Kurma' vs 'KURMA'
+- Inkonsistensi penulisan: 'Apel' vs 'apel', 'Kurma' vs 'KURMA' 
+
